@@ -1,5 +1,5 @@
 
-<p> Hi , I'm </p><h1>Aman Shah</h1>
+<p> Hi , I'm </p><h1>Aman Shah <small>mail@amankrshah.in</small></h1>
 <p>🧑‍💻 Developer of Enroll Bee Chrome Extension | Full Stack developer @infosys</p>
 <p>
     - 👀 I’m interested in Chrome Extension Development
