@@ -1,37 +1,25 @@
-<section style="font-family: Arial, sans-serif; padding: 20px; max-width: 800px; margin: auto;">
-    <p style="font-size: 18px; margin: 0;">Hi, I'm</p>
-    <h1 style="font-size: 36px; color: #2c3e50; margin: 5px 0;">Aman Shah</h1>
-    <p style="font-size: 18px; color: #555;">
-        🧑‍💻 Developer of 
-        <a href="https://chrome.google.com/webstore/detail/enroll-bee-enroll-free-ud/hppioimdgfckhbekbfcglelidfhijkol?hl=en" 
-           style="color: #e67e22; text-decoration: none; font-weight: bold;">
-           Enroll Bee
-        </a> Chrome Extension | Senior Quality Engineer @ LTIMindtree
-    </p>
+## Hi, I'm Aman Shah 👋
 
-    <p style="margin-top: 10px;">- 👀 I’m interested in Chrome Extension Development & Test Automation Frameworks</p>
-    <p>- 🌱 I’m currently learning MERN Stack</p>
+🧑‍💻 Developer of [**Enroll Bee**](https://chrome.google.com/webstore/detail/enroll-bee-enroll-free-ud/hppioimdgfckhbekbfcglelidfhijkol?hl=en) Chrome Extension | Senior Quality Engineer @ **LTIMindtree**
 
-    <hr style="margin: 20px 0; border: none; border-top: 2px solid #eee;">
+- 👀 I’m interested in **Chrome Extension Development** & **Test Automation Frameworks**  
+- 🌱 I’m currently learning **MERN Stack**  
 
-    <h2 style="color: #2980b9; margin-bottom: 10px;">🚀 Creator of Playwright-Bingo</h2>
-    <p style="color: #555; font-size: 16px; line-height: 1.5;">
-        Playwright-Bingo is an open-source npm package offering reusable Playwright automation testing utilities, 
-        including Page Object Model, self-healing locators, parallel execution, and detailed HTML reports.
-    </p>
+---
 
-    <div style="margin-top: 10px; font-size: 16px;">
-        <p>📦 <strong>npm Package:</strong> 
-            <a href="https://www.npmjs.com/package/playwright-bingo" 
-               style="color: #27ae60; text-decoration: none;">https://www.npmjs.com/package/playwright-bingo</a>
-        </p>
-        <p>💻 <strong>GitHub Repository:</strong> 
-            <a href="https://github.com/amankshah/playwright-bingo" 
-               style="color: #34495e; text-decoration: none;">https://github.com/amankshah/playwright-bingo</a>
-        </p>
-        <p>📖 <strong>Documentation:</strong> 
-            <a href="https://playwright-bingo.netlify.app/" 
-               style="color: #8e44ad; text-decoration: none;">https://playwright-bingo.netlify.app/</a>
-        </p>
-    </div>
-</section>
+## 🚀 Creator of Playwright-Bingo
+
+Playwright-Bingo is an open-source npm package offering reusable Playwright automation testing utilities,  
+including **Page Object Model**, **self-healing locators**, **parallel execution**, and detailed **HTML reports**.
+
+### 📌 Links  
+📦 **npm Package** → [![npm](https://img.shields.io/badge/npm-playwright--bingo-red?logo=npm)](https://www.npmjs.com/package/playwright-bingo)  
+💻 **GitHub Repository** → [![GitHub Repo](https://img.shields.io/badge/GitHub-playwright--bingo-black?logo=github)](https://github.com/amankshah/playwright-bingo)  
+📖 **Documentation** → [![Docs](https://img.shields.io/badge/Docs-Playwright--Bingo-8e44ad)](https://playwright-bingo.netlify.app/)
+
+---
+
+## 📫 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amankrshah-blue?logo=linkedin)](https://www.linkedin.com/in/amankrshah)  
+[![GitHub](https://img.shields.io/badge/GitHub-amankshah-black?logo=github)](https://github.com/amankshah)  
+[![npm](https://img.shields.io/badge/npm-amankrshah-red?logo=npm)](https://www.npmjs.com/~amankrshah)  
